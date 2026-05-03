@@ -76,7 +76,7 @@ jupyter notebook
 ```
 
 3. Run the project:
-- Open your notebook file (e.g., `Happiness_Predictor.ipynb`)
+- Open your notebook file (e.g., `Heart_Attack_Predictor.ipynb`)
 - Run all cells 
 
 ## Future Improvements
